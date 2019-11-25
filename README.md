@@ -1,6 +1,6 @@
 # Ad-serving-analysis
 
-<p align="center"><img src="https://drive.google.com/file/d/1-fefcUBWDZyGtXDWEVGWA8MInP5FrbMg/view?usp=sharing" width="400"></p>
+<p align="center"><img src="https://drive.google.com/drive/folders/1882D5C1OYwMRVy6tFE-npGDbzLR42YXj width="400"></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
