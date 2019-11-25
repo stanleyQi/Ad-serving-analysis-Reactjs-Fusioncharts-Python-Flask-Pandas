@@ -1,4 +1,4 @@
-<p align="center"># Ad-serving-analysis</p>
+# Ad-serving-analysis
 
 <p align="center"><image src="https://drive.google.com/uc?export=view&id=1-fefcUBWDZyGtXDWEVGWA8MInP5FrbMg"></p>
 
