@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a6fefacc.chunk.css",
+    "main.js": "/static/js/main.c4398add.chunk.js",
+    "main.js.map": "/static/js/main.c4398add.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb8a6cad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb8a6cad.js.map",
+    "static/js/2.2fd93f5c.chunk.js": "/static/js/2.2fd93f5c.chunk.js",
+    "static/js/2.2fd93f5c.chunk.js.map": "/static/js/2.2fd93f5c.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.310eb21d3345174f5f930cad51dc022f.js": "/precache-manifest.310eb21d3345174f5f930cad51dc022f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a6fefacc.chunk.css.map": "/static/css/main.a6fefacc.chunk.css.map",
+    "static/media/flask.jfif": "/static/media/flask.72c2e3e5.jfif",
+    "static/media/fusioncharts.jfif": "/static/media/fusioncharts.bfc2c507.jfif",
+    "static/media/pandas.png": "/static/media/pandas.22942b30.png",
+    "static/media/python.png": "/static/media/python.c290a443.png",
+    "static/media/react.svg": "/static/media/react.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb8a6cad.js",
+    "static/js/2.2fd93f5c.chunk.js",
+    "static/css/main.a6fefacc.chunk.css",
+    "static/js/main.c4398add.chunk.js"
+  ]
+}
