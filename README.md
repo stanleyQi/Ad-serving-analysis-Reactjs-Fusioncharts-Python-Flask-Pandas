@@ -7,6 +7,6 @@ web api: http://liqi811227.pythonanywhere.com/
 
 Purpose: This project is simply for practising program skills.<br>
 Material: Do some basic analysis to Ad's data comes from Internet.
-Used technologies/framework/platform: 
+Used technologies/framework/platform:<br>
         Front end: Reactjs/Fusioncharts/Google firebase<br>
         Back end: Python/Flask/Pandas/Python Any Where
